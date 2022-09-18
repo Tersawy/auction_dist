@@ -1,4 +1,7 @@
 {
+  "scripts": {
+    "build": "./build.sh"
+  },
   "dependencies": {
     "express": "^4.18.1"
   }
