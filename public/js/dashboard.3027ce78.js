@@ -1,0 +1,1 @@
+"use strict";(self["webpackChunkauction"]=self["webpackChunkauction"]||[]).push([[966],{152:function(n,a,e){e.r(a),e.d(a,{default:function(){return r}});var s=function(){var n=this,a=n._self._c;return a("div",{staticClass:"dashboard"},[n._v("Welcome To Dashboard")])},t=[],u={name:"DashboardView",components:{}},o=u,c=e(1001),l=(0,c.Z)(o,s,t,!1,null,null,null),r=l.exports}}]);
