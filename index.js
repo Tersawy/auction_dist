@@ -10,7 +10,7 @@ const { exec } = require("child_process")
 
 if (!process.env.pullPassword) throw new Error("You must specify a pullPassword before running the app.");
 
-app.post("pull", function (req, res) {
+app.post("/pull", function (req, res) {
     if (!req.body.password !== process.env.pullPassword) return res.send("Route does not exist");
 
     exec("git pull", (error, stdout, stderr) => {
