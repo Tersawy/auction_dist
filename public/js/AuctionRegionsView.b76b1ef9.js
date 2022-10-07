@@ -1,0 +1,1 @@
+"use strict";(self["webpackChunkauction"]=self["webpackChunkauction"]||[]).push([[156],{2742:function(n,u,e){e.r(u),e.d(u,{default:function(){return r}});var t=function(){var n=this,u=n._self._c;return u("div",[n._v("Home Page")])},i=[],c={name:"AuctionRegionsView"},l=c,a=e(1001),o=(0,a.Z)(l,t,i,!1,null,null,null),r=o.exports}}]);

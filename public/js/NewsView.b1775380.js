@@ -1,0 +1,1 @@
+"use strict";(self["webpackChunkauction"]=self["webpackChunkauction"]||[]).push([[661],{2750:function(n,e,u){u.r(e),u.d(e,{default:function(){return s}});var t=function(){var n=this,e=n._self._c;return e("div",[n._v("Home Page")])},l=[],a={name:"NewsView"},c=a,i=u(1001),r=(0,i.Z)(c,t,l,!1,null,null,null),s=r.exports}}]);

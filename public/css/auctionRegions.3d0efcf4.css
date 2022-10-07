@@ -1,1 +1,0 @@
-.active_link{color:var(--danger)!important;position:relative}.active_link:before{content:"";position:absolute;height:3px;width:100%;background-color:var(--danger);bottom:-5px;left:0}@media(min-width:1200px){.active_link:before{bottom:-22px}}.guest_navbar{height:80px}
